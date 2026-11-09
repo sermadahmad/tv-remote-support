@@ -34,7 +34,8 @@ the workflow. Deployment uses GitHub's temporary OIDC credential and the
 `github-pages` environment. Third-party Actions are pinned to reviewed commits.
 
 The app repository's commits and Expo workflows are independent of this site.
-The legacy Sites pages remain online for version 11 and link here.
+The legacy Sites pages remain online for version 11. Their links will be updated
+after this website has been publicly verified.
 
 ### First publication by the repository owner
 
